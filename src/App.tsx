@@ -1,3 +1,4 @@
+import AppSwitchSpace from "./app/app-switch/app-switch";
 import { Nav } from "./components/nav/nav";
 import NavContent from "./components/nav/nav-content";
 import { Spaces } from "./constants";
@@ -6,7 +7,7 @@ import "./theme/theme.css";
 const contents = [
   {
     name: "apps",
-    content: "App switch Shortcuts",
+    content: <AppSwitchSpace />,
   },
   {
     name: "emojis",
@@ -41,7 +42,7 @@ const contents = [
 function App() {
   return (
     <>
-      <header className="pt-3">
+      <div className="pt-3 max-w-[1250px] mx-auto">
         <Nav spaces={Spaces} defaultValue="apps">
           {contents.map((content) => (
             <NavContent key={content.name} value={content.name}>
@@ -49,7 +50,7 @@ function App() {
             </NavContent>
           ))}
         </Nav>
-      </header>
+      </div>
     </>
   );
 }
