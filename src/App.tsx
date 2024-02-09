@@ -1,14 +1,21 @@
-import logo from "./logo.svg";
 import "./App.css";
 import "./theme/theme.css";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 
 function App() {
   return (
-    <div className="App">
-      <header className="bg-[#282c34] min-h-screen flex flex-col items-center justify-center text-[calc(10px_+_2vmin)] text-[white];">
-        <img src={logo} className="App-logo size-60" alt="logo" />
+    <>
+      <header className="pt-1 flex justify-center">
+        <Tabs defaultValue="apps">
+          <TabsList>
+            <TabsTrigger value="apps">App switch</TabsTrigger>
+            <TabsTrigger value="emojis">Emojis</TabsTrigger>
+          </TabsList>
+          <TabsContent value="apps">App Shortcuts</TabsContent>
+          <TabsContent value="emojis">Emoji Shortcuts</TabsContent>
+        </Tabs>
       </header>
-    </div>
+    </>
   );
 }
 
