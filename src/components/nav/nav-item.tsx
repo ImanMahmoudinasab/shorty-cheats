@@ -1,4 +1,4 @@
-import { Spaces } from "@/constants";
+import { SPACES } from "@/constants";
 import { cn } from "@/lib/utils";
 import * as TabsPrimitive from "@radix-ui/react-tabs";
 
@@ -18,5 +18,5 @@ export function NavItem({ className, space, ...props }: NavItemProps) {
 }
 
 interface NavItemProps extends React.HTMLAttributes<HTMLDivElement> {
-  space: (typeof Spaces)[0];
+  space: (typeof SPACES)[0];
 }

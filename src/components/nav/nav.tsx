@@ -1,4 +1,4 @@
-import { Spaces } from "@/constants";
+import { SPACES } from "@/constants";
 import { cn } from "@/lib/utils";
 import { ScrollArea, ScrollBar } from "../ui/scroll-area";
 import * as TabsPrimitive from "@radix-ui/react-tabs";
@@ -23,6 +23,6 @@ export function Nav({ className, spaces, defaultValue, ...props }: NavProps) {
 }
 
 interface NavProps extends React.HTMLAttributes<HTMLDivElement> {
-  spaces: typeof Spaces;
+  spaces: typeof SPACES;
   defaultValue: string;
 }
