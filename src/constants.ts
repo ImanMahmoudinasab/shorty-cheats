@@ -198,51 +198,51 @@ export const SPACES = [
         commands: [
           {
             name: "[",
-            shortcut: [" ", "a"],
+            shortcut: ["˽", "a"],
           },
           {
             name: "]",
-            shortcut: [" ", "s"],
+            shortcut: ["˽", "s"],
           },
           {
             name: "(",
-            shortcut: [" ", "d"],
+            shortcut: ["˽", "d"],
           },
           {
             name: ")",
-            shortcut: [" ", "f"],
+            shortcut: ["˽", "f"],
           },
           {
             name: "{",
-            shortcut: [" ", "j"],
+            shortcut: ["˽", "j"],
           },
           {
             name: "}",
-            shortcut: [" ", "k"],
+            shortcut: ["˽", "k"],
           },
           {
             name: "<",
-            shortcut: [" ", "l"],
+            shortcut: ["˽", "l"],
           },
           {
             name: ">",
-            shortcut: [" ", ";"],
+            shortcut: ["˽", ";"],
           },
           {
             name: "=",
-            shortcut: [" ", "w"],
+            shortcut: ["˽", "w"],
           },
           {
             name: "===",
-            shortcut: [" ", "e"],
+            shortcut: ["˽", "e"],
           },
           {
             name: "!==",
-            shortcut: [" ", "r"],
+            shortcut: ["˽", "r"],
           },
           {
             name: "()=>",
-            shortcut: [" ", "t"],
+            shortcut: ["˽", "t"],
           },
         ],
       },
