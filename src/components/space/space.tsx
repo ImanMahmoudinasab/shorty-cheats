@@ -15,7 +15,7 @@ function Space(props: SpaceProps) {
               {area.commands.map((command) => (
                 <li
                   key={command.name}
-                  className="flex text-sm justify-between p-2 even:bg-gray-50/60 rounded-md hover:bg-blue-50 my-1"
+                  className="flex text-sm justify-between p-2 even:bg-gray-50/60 rounded-md hover:bg-blue-50 my-1 cursor-default"
                 >
                   <div>{command.name}</div>
                   <div>
