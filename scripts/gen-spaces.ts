@@ -1,5 +1,5 @@
 import * as fs from "fs";
-import type { Space, Area, Command } from "../src/constants";
+import type { Space, Area } from "../src/constants";
 const especialCharactersMap = {
   spacebar: "˽",
   space: "˽",

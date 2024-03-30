@@ -974,13 +974,24 @@
             }
           },
           {
-            "name": "Press enter key",
+            "name": "Press Enter key",
             "shortcut": [
               "s",
               ";"
             ],
             "meta": {
-              "command": "Press enter key",
+              "command": "Press Enter key",
+              "group": "General actions"
+            }
+          },
+          {
+            "name": "Press Backspace key",
+            "shortcut": [
+              "s",
+              "'"
+            ],
+            "meta": {
+              "command": "Press Backspace key",
               "group": "General actions"
             }
           },
@@ -1026,6 +1037,17 @@
             "meta": {
               "command": "Delete forward a word",
               "group": "Editor navigation"
+            }
+          },
+          {
+            "name": "Show ui shortcuts",
+            "shortcut": [
+              "s",
+              "˽"
+            ],
+            "meta": {
+              "command": "Show ui shortcuts",
+              "group": "General actions"
             }
           }
         ]
@@ -1142,13 +1164,13 @@
             }
           },
           {
-            "name": "Move cursor to first quarter",
+            "name": "Move cursor to 1st quarter",
             "shortcut": [
               "mouse",
               "U"
             ],
             "meta": {
-              "command": "Move cursor to first quarter",
+              "command": "Move cursor to 1st quarter",
               "group": "Jump to quarters"
             }
           },
@@ -1164,24 +1186,24 @@
             }
           },
           {
-            "name": "Move cursor to second quarter",
+            "name": "Move cursor to 2nd quarter",
             "shortcut": [
               "mouse",
               "O"
             ],
             "meta": {
-              "command": "Move cursor to second quarter",
+              "command": "Move cursor to 2nd quarter",
               "group": "Jump to quarters"
             }
           },
           {
-            "name": "Move cursor to third quarter",
+            "name": "Move cursor to 3rd quarter",
             "shortcut": [
               "mouse",
               "H"
             ],
             "meta": {
-              "command": "Move cursor to third quarter",
+              "command": "Move cursor to 3rd quarter",
               "group": "Jump to quarters"
             }
           },
@@ -1315,13 +1337,13 @@
             }
           },
           {
-            "name": "Move cursor to fourth quarter",
+            "name": "Move cursor to 4th quarter",
             "shortcut": [
               "mouse",
               ";"
             ],
             "meta": {
-              "command": "Move cursor to fourth quarter",
+              "command": "Move cursor to 4th quarter",
               "group": "Jump to quarters"
             }
           }

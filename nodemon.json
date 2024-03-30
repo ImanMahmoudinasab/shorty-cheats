@@ -1,0 +1,6 @@
+{
+  "watch": ["./scripts", "./src", "../configs/keyboard/karabiner.edn"],
+  "ext": "edn,js,jsx,tsx,ts,json",
+  "ignore": ["src/**/spaces.json"],
+  "exec": "goku && ts-node scripts/gen-spaces.ts"
+}
