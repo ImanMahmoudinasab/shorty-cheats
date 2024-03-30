@@ -11,7 +11,15 @@ function getGroupedCommands(areas: Area[]) {
   const groups = Object.entries(groupedCommands).map(([key, value]) => {
     return {
       group: key === "undefined" ? "Others" : key,
-      commands: value,
+      commands: value.sort((a, b) => {
+        if (a.name < b.name) {
+          return -1;
+        }
+        if (a.name > b.name) {
+          return 1;
+        }
+        return 0;
+      }),
     };
   });
 
