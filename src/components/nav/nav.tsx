@@ -11,7 +11,7 @@ export function Nav({ className, spaces, defaultValue, ...props }: NavProps) {
         <ScrollArea className="max-w-[600px] lg:max-w-none">
           <div className={cn("mb-4 flex items-center", className)} {...props}>
             {spaces.map((space) => (
-              <NavItem key={space.name} space={space} />
+              <NavItem key={space.id} space={space} />
             ))}
           </div>
           <ScrollBar orientation="horizontal" className="invisible" />

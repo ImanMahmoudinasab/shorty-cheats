@@ -1,0 +1,2182 @@
+[
+  {
+    "id": "app-switch",
+    "name": "App switch",
+    "meta": {},
+    "areas": [
+      {
+        "name": "semicolon-mode",
+        "meta": {},
+        "commands": [
+          {
+            "name": "Launch Wrap",
+            "shortcut": [
+              ";",
+              "W"
+            ],
+            "meta": {
+              "command": "Launch Wrap",
+              "group": "Launch applications ✨"
+            }
+          },
+          {
+            "name": "Launch Karabiner-EventViewer",
+            "shortcut": [
+              ";",
+              "E"
+            ],
+            "meta": {
+              "command": "Launch Karabiner-EventViewer",
+              "group": "Launch applications"
+            }
+          },
+          {
+            "name": "Launch Telegram Lite",
+            "shortcut": [
+              ";",
+              "T"
+            ],
+            "meta": {
+              "command": "Launch Telegram Lite",
+              "group": "Launch applications"
+            }
+          },
+          {
+            "name": "Launch Annotate",
+            "shortcut": [
+              ";",
+              "A"
+            ],
+            "meta": {
+              "command": "Launch Annotate",
+              "group": "Launch applications"
+            }
+          },
+          {
+            "name": "Launch Slack",
+            "shortcut": [
+              ";",
+              "S"
+            ],
+            "meta": {
+              "command": "Launch Slack",
+              "group": "Launch applications ✨"
+            }
+          },
+          {
+            "name": "Launch Dictionary",
+            "shortcut": [
+              ";",
+              "D"
+            ],
+            "meta": {
+              "command": "Launch Dictionary",
+              "group": "Launch applications"
+            }
+          },
+          {
+            "name": "Launch  Finder",
+            "shortcut": [
+              ";",
+              "F"
+            ],
+            "meta": {
+              "command": "Launch  Finder",
+              "group": "Launch applications ✨"
+            }
+          },
+          {
+            "name": "Launch Google Chrome",
+            "shortcut": [
+              ";",
+              "G"
+            ],
+            "meta": {
+              "command": "Launch Google Chrome",
+              "group": "Launch applications ✨"
+            }
+          },
+          {
+            "name": "Launch Terminal",
+            "shortcut": [
+              ";",
+              "X"
+            ],
+            "meta": {
+              "command": "Launch Terminal",
+              "group": "Launch applications ✨"
+            }
+          },
+          {
+            "name": "Launch Calculator",
+            "shortcut": [
+              ";",
+              "C"
+            ],
+            "meta": {
+              "command": "Launch Calculator",
+              "group": "Launch applications"
+            }
+          },
+          {
+            "name": "Launch VSCode",
+            "shortcut": [
+              ";",
+              "V"
+            ],
+            "meta": {
+              "command": "Launch VSCode",
+              "group": "Launch applications ✨"
+            }
+          },
+          {
+            "name": "Launch Be Focused Pro",
+            "shortcut": [
+              ";",
+              "B"
+            ],
+            "meta": {
+              "command": "Launch Be Focused Pro",
+              "group": "Launch applications"
+            }
+          },
+          {
+            "name": "Open Alfred / Spotlight 1",
+            "shortcut": [
+              ";",
+              "˽"
+            ],
+            "meta": {
+              "command": "Open Alfred / Spotlight 1"
+            }
+          }
+        ]
+      },
+      {
+        "name": "a-mode",
+        "meta": {},
+        "commands": [
+          {
+            "name": "Launch Youtube Music",
+            "shortcut": [
+              "a",
+              "Y"
+            ],
+            "meta": {
+              "command": "Launch Youtube Music",
+              "group": "Launch applications"
+            }
+          },
+          {
+            "name": "Launch IntelliJ IDEA CE",
+            "shortcut": [
+              "a",
+              "I"
+            ],
+            "meta": {
+              "command": "Launch IntelliJ IDEA CE",
+              "group": "Launch applications"
+            }
+          },
+          {
+            "name": "Launch Google.com",
+            "shortcut": [
+              "a",
+              "O"
+            ],
+            "meta": {
+              "command": "Launch Google.com",
+              "group": "Launch applications"
+            }
+          },
+          {
+            "name": "Launch Elmedia Video Player",
+            "shortcut": [
+              "a",
+              "P"
+            ],
+            "meta": {
+              "command": "Launch Elmedia Video Player",
+              "group": "Launch applications"
+            }
+          },
+          {
+            "name": "Launch Krita",
+            "shortcut": [
+              "a",
+              "K"
+            ],
+            "meta": {
+              "command": "Launch Krita",
+              "group": "Launch applications"
+            }
+          },
+          {
+            "name": "Launch Localhost",
+            "shortcut": [
+              "a",
+              "L"
+            ],
+            "meta": {
+              "command": "Launch Localhost",
+              "group": "Launch applications ✨"
+            }
+          },
+          {
+            "name": "Switch to prev app",
+            "shortcut": [
+              "a",
+              ";"
+            ],
+            "meta": {
+              "command": "Switch to prev app"
+            }
+          },
+          {
+            "name": "Switch to next app",
+            "shortcut": [
+              "a",
+              "'"
+            ],
+            "meta": {
+              "command": "Switch to next app"
+            }
+          },
+          {
+            "name": "Launch Notion",
+            "shortcut": [
+              "a",
+              "N"
+            ],
+            "meta": {
+              "command": "Launch Notion",
+              "group": "Launch applications"
+            }
+          },
+          {
+            "name": "Launch Activity monitor",
+            "shortcut": [
+              "a",
+              "M"
+            ],
+            "meta": {
+              "command": "Launch Activity monitor",
+              "group": "Launch applications"
+            }
+          },
+          {
+            "name": "Open Alfred / Spotlight 2",
+            "shortcut": [
+              "a",
+              "˽"
+            ],
+            "meta": {
+              "command": "Open Alfred / Spotlight 2"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "space-mode",
+    "name": "Space mode",
+    "meta": {},
+    "areas": [
+      {
+        "name": "space-mode",
+        "meta": {},
+        "commands": [
+          {
+            "name": "capture screenshot to clipboard",
+            "shortcut": [
+              "˽",
+              "1"
+            ],
+            "meta": {
+              "command": "capture screenshot to clipboard",
+              "group": "Screenshot"
+            }
+          },
+          {
+            "name": "capture screenshot & annotate",
+            "shortcut": [
+              "˽",
+              "2"
+            ],
+            "meta": {
+              "command": "capture screenshot & annotate",
+              "group": "Screenshot"
+            }
+          },
+          {
+            "name": "screenshot",
+            "shortcut": [
+              "˽",
+              "3"
+            ],
+            "meta": {
+              "command": "screenshot",
+              "group": "Screenshot"
+            }
+          },
+          {
+            "name": "record screen",
+            "shortcut": [
+              "˽",
+              "4"
+            ],
+            "meta": {
+              "command": "record screen",
+              "group": "Screenshot"
+            }
+          },
+          {
+            "name": "[",
+            "shortcut": [
+              "˽",
+              "A"
+            ],
+            "meta": {
+              "command": "[",
+              "group": "Symbols"
+            }
+          },
+          {
+            "name": "]",
+            "shortcut": [
+              "˽",
+              "S"
+            ],
+            "meta": {
+              "command": "]",
+              "group": "Symbols"
+            }
+          },
+          {
+            "name": "(",
+            "shortcut": [
+              "˽",
+              "D"
+            ],
+            "meta": {
+              "command": "(",
+              "group": "Symbols"
+            }
+          },
+          {
+            "name": ")",
+            "shortcut": [
+              "˽",
+              "F"
+            ],
+            "meta": {
+              "command": ")",
+              "group": "Symbols"
+            }
+          },
+          {
+            "name": "=",
+            "shortcut": [
+              "˽",
+              "W"
+            ],
+            "meta": {
+              "command": "=",
+              "group": "Symbols"
+            }
+          },
+          {
+            "name": "===",
+            "shortcut": [
+              "˽",
+              "E"
+            ],
+            "meta": {
+              "command": "===",
+              "group": "Symbols"
+            }
+          },
+          {
+            "name": "!==",
+            "shortcut": [
+              "˽",
+              "R"
+            ],
+            "meta": {
+              "command": "!==",
+              "group": "Symbols"
+            }
+          },
+          {
+            "name": "()=>",
+            "shortcut": [
+              "˽",
+              "T"
+            ],
+            "meta": {
+              "command": "()=>",
+              "group": "Symbols"
+            }
+          },
+          {
+            "name": "{",
+            "shortcut": [
+              "˽",
+              "J"
+            ],
+            "meta": {
+              "command": "{",
+              "group": "Symbols"
+            }
+          },
+          {
+            "name": "}",
+            "shortcut": [
+              "˽",
+              "K"
+            ],
+            "meta": {
+              "command": "}",
+              "group": "Symbols"
+            }
+          },
+          {
+            "name": "<",
+            "shortcut": [
+              "˽",
+              "L"
+            ],
+            "meta": {
+              "command": "<",
+              "group": "Symbols"
+            }
+          },
+          {
+            "name": ">",
+            "shortcut": [
+              "˽",
+              ";"
+            ],
+            "meta": {
+              "command": ">",
+              "group": "Symbols"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "emojis",
+    "name": "Emojis",
+    "meta": {},
+    "areas": [
+      {
+        "name": "z-mode",
+        "meta": {},
+        "commands": [
+          {
+            "name": "😐",
+            "shortcut": [
+              "z",
+              "\\"
+            ],
+            "meta": {
+              "command": "😐",
+              "group": "Emojis"
+            }
+          },
+          {
+            "name": "😂",
+            "shortcut": [
+              "z",
+              "J"
+            ],
+            "meta": {
+              "command": "😂",
+              "group": "Emojis"
+            }
+          },
+          {
+            "name": "👍",
+            "shortcut": [
+              "z",
+              "L"
+            ],
+            "meta": {
+              "command": "👍",
+              "group": "Emojis"
+            }
+          },
+          {
+            "name": "😄",
+            "shortcut": [
+              "z",
+              "H"
+            ],
+            "meta": {
+              "command": "😄",
+              "group": "Emojis"
+            }
+          },
+          {
+            "name": "😜",
+            "shortcut": [
+              "z",
+              "P"
+            ],
+            "meta": {
+              "command": "😜",
+              "group": "Emojis"
+            }
+          },
+          {
+            "name": "☺️",
+            "shortcut": [
+              "z",
+              "Y"
+            ],
+            "meta": {
+              "command": "☺️",
+              "group": "Emojis"
+            }
+          },
+          {
+            "name": "Open emoji picker",
+            "shortcut": [
+              "z",
+              "N"
+            ],
+            "meta": {
+              "command": "Open emoji picker"
+            }
+          }
+        ]
+      },
+      {
+        "name": "slash-mode",
+        "meta": {},
+        "commands": [
+          {
+            "name": "⚠️",
+            "shortcut": [
+              "/",
+              "1"
+            ],
+            "meta": {
+              "command": "⚠️",
+              "group": "Emojis"
+            }
+          },
+          {
+            "name": "😤",
+            "shortcut": [
+              "/",
+              "A"
+            ],
+            "meta": {
+              "command": "😤",
+              "group": "Emojis"
+            }
+          },
+          {
+            "name": "🙇🏻‍♂️",
+            "shortcut": [
+              "/",
+              "B"
+            ],
+            "meta": {
+              "command": "🙇🏻‍♂️",
+              "group": "Emojis"
+            }
+          },
+          {
+            "name": "😢",
+            "shortcut": [
+              "/",
+              "C"
+            ],
+            "meta": {
+              "command": "😢",
+              "group": "Emojis"
+            }
+          },
+          {
+            "name": "😁",
+            "shortcut": [
+              "/",
+              "D"
+            ],
+            "meta": {
+              "command": "😁",
+              "group": "Emojis"
+            }
+          },
+          {
+            "name": "🤝",
+            "shortcut": [
+              "/",
+              "S"
+            ],
+            "meta": {
+              "command": "🤝",
+              "group": "Emojis"
+            }
+          },
+          {
+            "name": "🤔",
+            "shortcut": [
+              "/",
+              "T"
+            ],
+            "meta": {
+              "command": "🤔",
+              "group": "Emojis"
+            }
+          },
+          {
+            "name": "✅",
+            "shortcut": [
+              "/",
+              "Q"
+            ],
+            "meta": {
+              "command": "✅",
+              "group": "Emojis"
+            }
+          },
+          {
+            "name": "😉",
+            "shortcut": [
+              "/",
+              "W"
+            ],
+            "meta": {
+              "command": "😉",
+              "group": "Emojis"
+            }
+          },
+          {
+            "name": "🤨",
+            "shortcut": [
+              "/",
+              "R"
+            ],
+            "meta": {
+              "command": "🤨",
+              "group": "Emojis"
+            }
+          },
+          {
+            "name": "😬",
+            "shortcut": [
+              "/",
+              "X"
+            ],
+            "meta": {
+              "command": "😬",
+              "group": "Emojis"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s-&-l-mode",
+    "name": "S & L mode",
+    "meta": {},
+    "areas": [
+      {
+        "name": "l-mode :!mouse-mode",
+        "meta": {},
+        "commands": [
+          {
+            "name": "Screenshot",
+            "shortcut": [
+              "l",
+              "1"
+            ],
+            "meta": {
+              "command": "Screenshot",
+              "group": "Screenshot"
+            }
+          },
+          {
+            "name": "Screenshot & annotate",
+            "shortcut": [
+              "l",
+              "2"
+            ],
+            "meta": {
+              "command": "Screenshot & annotate",
+              "group": "Screenshot"
+            }
+          },
+          {
+            "name": "Screen record",
+            "shortcut": [
+              "l",
+              "4"
+            ],
+            "meta": {
+              "command": "Screen record",
+              "group": "Screenshot"
+            }
+          },
+          {
+            "name": "Quit",
+            "shortcut": [
+              "l",
+              "Q"
+            ],
+            "meta": {
+              "command": "Quit",
+              "group": "General actions"
+            }
+          },
+          {
+            "name": "Close tab/window",
+            "shortcut": [
+              "l",
+              "W"
+            ],
+            "meta": {
+              "command": "Close tab/window",
+              "group": "General actions"
+            }
+          },
+          {
+            "name": "Scroll up",
+            "shortcut": [
+              "l",
+              "E"
+            ],
+            "meta": {
+              "command": "Scroll up",
+              "group": "Scroll page"
+            }
+          },
+          {
+            "name": "Press Tab key",
+            "shortcut": [
+              "l",
+              "T"
+            ],
+            "meta": {
+              "command": "Press Tab key",
+              "group": "General actions"
+            }
+          },
+          {
+            "name": "Press escape",
+            "shortcut": [
+              "l",
+              "⇪"
+            ],
+            "meta": {
+              "command": "Press escape",
+              "group": "General actions"
+            }
+          },
+          {
+            "name": "Scroll left",
+            "shortcut": [
+              "l",
+              "A"
+            ],
+            "meta": {
+              "command": "Scroll left",
+              "group": "Scroll page"
+            }
+          },
+          {
+            "name": "Go left desktop",
+            "shortcut": [
+              "l",
+              "S"
+            ],
+            "meta": {
+              "command": "Go left desktop",
+              "group": "Desktops"
+            }
+          },
+          {
+            "name": "Scroll down",
+            "shortcut": [
+              "l",
+              "D"
+            ],
+            "meta": {
+              "command": "Scroll down",
+              "group": "Scroll page"
+            }
+          },
+          {
+            "name": "Go right desktop",
+            "shortcut": [
+              "l",
+              "F"
+            ],
+            "meta": {
+              "command": "Go right desktop",
+              "group": "Desktops"
+            }
+          },
+          {
+            "name": "Scroll right",
+            "shortcut": [
+              "l",
+              "G"
+            ],
+            "meta": {
+              "command": "Scroll right",
+              "group": "Scroll page"
+            }
+          },
+          {
+            "name": "Undo",
+            "shortcut": [
+              "l",
+              "Z"
+            ],
+            "meta": {
+              "command": "Undo",
+              "group": "Editor actions"
+            }
+          },
+          {
+            "name": "Cut",
+            "shortcut": [
+              "l",
+              "X"
+            ],
+            "meta": {
+              "command": "Cut",
+              "group": "Clipboard"
+            }
+          },
+          {
+            "name": "Copy",
+            "shortcut": [
+              "l",
+              "C"
+            ],
+            "meta": {
+              "command": "Copy",
+              "group": "Clipboard"
+            }
+          },
+          {
+            "name": "Past",
+            "shortcut": [
+              "l",
+              "V"
+            ],
+            "meta": {
+              "command": "Past",
+              "group": "Clipboard"
+            }
+          },
+          {
+            "name": "Show clipboards",
+            "shortcut": [
+              "l",
+              "B"
+            ],
+            "meta": {
+              "command": "Show clipboards",
+              "group": "Clipboard"
+            }
+          }
+        ]
+      },
+      {
+        "name": "s-mode",
+        "meta": {},
+        "commands": [
+          {
+            "name": "Page up",
+            "shortcut": [
+              "s",
+              "Y"
+            ],
+            "meta": {
+              "command": "Page up",
+              "group": "Editor navigation"
+            }
+          },
+          {
+            "name": "Select all",
+            "shortcut": [
+              "s",
+              "U"
+            ],
+            "meta": {
+              "command": "Select all",
+              "group": "Editor actions"
+            }
+          },
+          {
+            "name": "Arrow up",
+            "shortcut": [
+              "s",
+              "I"
+            ],
+            "meta": {
+              "command": "Arrow up",
+              "group": "Editor navigation"
+            }
+          },
+          {
+            "name": "Page down",
+            "shortcut": [
+              "s",
+              "H"
+            ],
+            "meta": {
+              "command": "Page down",
+              "group": "Editor navigation"
+            }
+          },
+          {
+            "name": "Arrow left",
+            "shortcut": [
+              "s",
+              "J"
+            ],
+            "meta": {
+              "command": "Arrow left",
+              "group": "Editor navigation"
+            }
+          },
+          {
+            "name": "Arrow down",
+            "shortcut": [
+              "s",
+              "K"
+            ],
+            "meta": {
+              "command": "Arrow down",
+              "group": "Editor navigation"
+            }
+          },
+          {
+            "name": "Arrow right",
+            "shortcut": [
+              "s",
+              "L"
+            ],
+            "meta": {
+              "command": "Arrow right",
+              "group": "Editor navigation"
+            }
+          },
+          {
+            "name": "Press enter key",
+            "shortcut": [
+              "s",
+              ";"
+            ],
+            "meta": {
+              "command": "Press enter key",
+              "group": "General actions"
+            }
+          },
+          {
+            "name": "Jump start of line",
+            "shortcut": [
+              "s",
+              "N"
+            ],
+            "meta": {
+              "command": "Jump start of line",
+              "group": "Editor navigation"
+            }
+          },
+          {
+            "name": "Jump end of line",
+            "shortcut": [
+              "s",
+              "M"
+            ],
+            "meta": {
+              "command": "Jump end of line",
+              "group": "Editor navigation"
+            }
+          },
+          {
+            "name": "Delete backward a word",
+            "shortcut": [
+              "s",
+              ","
+            ],
+            "meta": {
+              "command": "Delete backward a word",
+              "group": "Editor navigation"
+            }
+          },
+          {
+            "name": "Delete forward a word",
+            "shortcut": [
+              "s",
+              "."
+            ],
+            "meta": {
+              "command": "Delete forward a word",
+              "group": "Editor navigation"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mouse-mode",
+    "name": "Mouse mode",
+    "meta": {},
+    "areas": [
+      {
+        "name": "space-mode [\"mouse-mode\" 0]",
+        "meta": {},
+        "commands": [
+          {
+            "name": "Turn on mouse mode",
+            "shortcut": [
+              "˽",
+              "⇪"
+            ],
+            "meta": {
+              "command": "Turn on mouse mode",
+              "group": "Mouse mode on/off"
+            }
+          }
+        ]
+      },
+      {
+        "name": "space-mode [\"mouse-mode\" 1]",
+        "meta": {},
+        "commands": [
+          {
+            "name": "Turn off mouse mode",
+            "shortcut": [
+              "˽",
+              "⇪"
+            ],
+            "meta": {
+              "command": "Turn off mouse mode",
+              "group": "Mouse mode on/off"
+            }
+          }
+        ]
+      },
+      {
+        "name": "mouse-mode",
+        "meta": {},
+        "commands": [
+          {
+            "name": "Left click",
+            "shortcut": [
+              "mouse",
+              "W"
+            ],
+            "meta": {
+              "command": "Left click",
+              "group": "Clicks"
+            }
+          },
+          {
+            "name": "Right click",
+            "shortcut": [
+              "mouse",
+              "R"
+            ],
+            "meta": {
+              "command": "Right click",
+              "group": "Clicks"
+            }
+          },
+          {
+            "name": "Scroll up",
+            "shortcut": [
+              "mouse",
+              "E"
+            ],
+            "meta": {
+              "command": "Scroll up",
+              "group": "Scroll page"
+            }
+          },
+          {
+            "name": "Scroll left",
+            "shortcut": [
+              "mouse",
+              "S"
+            ],
+            "meta": {
+              "command": "Scroll left",
+              "group": "Scroll page"
+            }
+          },
+          {
+            "name": "Scroll down",
+            "shortcut": [
+              "mouse",
+              "D"
+            ],
+            "meta": {
+              "command": "Scroll down",
+              "group": "Scroll page"
+            }
+          },
+          {
+            "name": "Scroll right",
+            "shortcut": [
+              "mouse",
+              "F"
+            ],
+            "meta": {
+              "command": "Scroll right",
+              "group": "Scroll page"
+            }
+          },
+          {
+            "name": "Move cursor to first quarter",
+            "shortcut": [
+              "mouse",
+              "U"
+            ],
+            "meta": {
+              "command": "Move cursor to first quarter",
+              "group": "Jump to quarters"
+            }
+          },
+          {
+            "name": "Move cursor up",
+            "shortcut": [
+              "mouse",
+              "I"
+            ],
+            "meta": {
+              "command": "Move cursor up",
+              "group": "Move cursor normal"
+            }
+          },
+          {
+            "name": "Move cursor to second quarter",
+            "shortcut": [
+              "mouse",
+              "O"
+            ],
+            "meta": {
+              "command": "Move cursor to second quarter",
+              "group": "Jump to quarters"
+            }
+          },
+          {
+            "name": "Move cursor to third quarter",
+            "shortcut": [
+              "mouse",
+              "H"
+            ],
+            "meta": {
+              "command": "Move cursor to third quarter",
+              "group": "Jump to quarters"
+            }
+          },
+          {
+            "name": "Move cursor left",
+            "shortcut": [
+              "mouse",
+              "J"
+            ],
+            "meta": {
+              "command": "Move cursor left",
+              "group": "Move cursor normal"
+            }
+          },
+          {
+            "name": "Move cursor down",
+            "shortcut": [
+              "mouse",
+              "K"
+            ],
+            "meta": {
+              "command": "Move cursor down",
+              "group": "Move cursor normal"
+            }
+          },
+          {
+            "name": "Move cursor right",
+            "shortcut": [
+              "mouse",
+              "L"
+            ],
+            "meta": {
+              "command": "Move cursor right",
+              "group": "Move cursor normal"
+            }
+          },
+          {
+            "name": "Move cursor up faster",
+            "shortcut": [
+              "mouse",
+              "⌘",
+              "I"
+            ],
+            "meta": {
+              "command": "Move cursor up faster",
+              "group": "Move cursor fast"
+            }
+          },
+          {
+            "name": "Move cursor left faster",
+            "shortcut": [
+              "mouse",
+              "⌘",
+              "J"
+            ],
+            "meta": {
+              "command": "Move cursor left faster",
+              "group": "Move cursor fast"
+            }
+          },
+          {
+            "name": "Move cursor down faster",
+            "shortcut": [
+              "mouse",
+              "⌘",
+              "K"
+            ],
+            "meta": {
+              "command": "Move cursor down faster",
+              "group": "Move cursor fast"
+            }
+          },
+          {
+            "name": "Move cursor right faster",
+            "shortcut": [
+              "mouse",
+              "⌘",
+              "L"
+            ],
+            "meta": {
+              "command": "Move cursor right faster",
+              "group": "Move cursor fast"
+            }
+          },
+          {
+            "name": "Move cursor up slower",
+            "shortcut": [
+              "mouse",
+              "⌥",
+              "I"
+            ],
+            "meta": {
+              "command": "Move cursor up slower",
+              "group": "Move cursor slow"
+            }
+          },
+          {
+            "name": "Move cursor left slower",
+            "shortcut": [
+              "mouse",
+              "⌥",
+              "J"
+            ],
+            "meta": {
+              "command": "Move cursor left slower",
+              "group": "Move cursor slow"
+            }
+          },
+          {
+            "name": "Move cursor down slower",
+            "shortcut": [
+              "mouse",
+              "⌥",
+              "K"
+            ],
+            "meta": {
+              "command": "Move cursor down slower",
+              "group": "Move cursor slow"
+            }
+          },
+          {
+            "name": "Move cursor right slower",
+            "shortcut": [
+              "mouse",
+              "⌥",
+              "L"
+            ],
+            "meta": {
+              "command": "Move cursor right slower",
+              "group": "Move cursor slow"
+            }
+          },
+          {
+            "name": "Move cursor to fourth quarter",
+            "shortcut": [
+              "mouse",
+              ";"
+            ],
+            "meta": {
+              "command": "Move cursor to fourth quarter",
+              "group": "Jump to quarters"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vs-code",
+    "name": "VS Code",
+    "meta": {},
+    "areas": [
+      {
+        "name": "j-mode",
+        "meta": {},
+        "commands": [
+          {
+            "name": "Open intellisense",
+            "shortcut": [
+              "j",
+              "⇆"
+            ],
+            "meta": {
+              "command": "Open intellisense",
+              "group": "Editor actions"
+            }
+          },
+          {
+            "name": "Match selection",
+            "shortcut": [
+              "j",
+              "W"
+            ],
+            "meta": {
+              "command": "Match selection",
+              "group": "Selection"
+            }
+          },
+          {
+            "name": "Focus editor",
+            "shortcut": [
+              "j",
+              "E"
+            ],
+            "meta": {
+              "command": "Focus editor",
+              "group": "Views"
+            }
+          },
+          {
+            "name": "Run \"start\" task",
+            "shortcut": [
+              "j",
+              "R"
+            ],
+            "meta": {
+              "command": "Run \"start\" task",
+              "group": "Terminal & tasks"
+            }
+          },
+          {
+            "name": "Focus terminal",
+            "shortcut": [
+              "j",
+              "T"
+            ],
+            "meta": {
+              "command": "Focus terminal",
+              "group": "Views"
+            }
+          },
+          {
+            "name": "Select all match",
+            "shortcut": [
+              "j",
+              "A"
+            ],
+            "meta": {
+              "command": "Select all match",
+              "group": "Selection"
+            }
+          },
+          {
+            "name": "Search project",
+            "shortcut": [
+              "j",
+              "S"
+            ],
+            "meta": {
+              "command": "Search project",
+              "group": "Find & replace"
+            }
+          },
+          {
+            "name": "Duplicate current line down",
+            "shortcut": [
+              "j",
+              "D"
+            ],
+            "meta": {
+              "command": "Duplicate current line down",
+              "group": "Editor actions"
+            }
+          },
+          {
+            "name": "Find in file",
+            "shortcut": [
+              "j",
+              "F"
+            ],
+            "meta": {
+              "command": "Find in file",
+              "group": "Find & replace"
+            }
+          },
+          {
+            "name": "Focus git",
+            "shortcut": [
+              "j",
+              "G"
+            ],
+            "meta": {
+              "command": "Focus git",
+              "group": "Views"
+            }
+          },
+          {
+            "name": "Focus explorer",
+            "shortcut": [
+              "j",
+              "C"
+            ],
+            "meta": {
+              "command": "Focus explorer",
+              "group": "Views"
+            }
+          },
+          {
+            "name": "Open command palette",
+            "shortcut": [
+              "j",
+              "˽"
+            ],
+            "meta": {
+              "command": "Open command palette",
+              "group": "Navigation"
+            }
+          }
+        ]
+      },
+      {
+        "name": "f-mode",
+        "meta": {},
+        "commands": [
+          {
+            "name": "Go to prev tab",
+            "shortcut": [
+              "f",
+              "U"
+            ],
+            "meta": {
+              "command": "Go to prev tab",
+              "group": "Navigation"
+            }
+          },
+          {
+            "name": "Move line up",
+            "shortcut": [
+              "f",
+              "I"
+            ],
+            "meta": {
+              "command": "Move line up",
+              "group": "Editor actions"
+            }
+          },
+          {
+            "name": "Go to next tab",
+            "shortcut": [
+              "f",
+              "O"
+            ],
+            "meta": {
+              "command": "Go to next tab",
+              "group": "Navigation"
+            }
+          },
+          {
+            "name": "Go to prev location",
+            "shortcut": [
+              "f",
+              "P"
+            ],
+            "meta": {
+              "command": "Go to prev location",
+              "group": "Editor actions"
+            }
+          },
+          {
+            "name": "Move line down",
+            "shortcut": [
+              "f",
+              "K"
+            ],
+            "meta": {
+              "command": "Move line down",
+              "group": "Editor actions"
+            }
+          },
+          {
+            "name": "Select line",
+            "shortcut": [
+              "f",
+              "L"
+            ],
+            "meta": {
+              "command": "Select line",
+              "group": "Selection"
+            }
+          },
+          {
+            "name": "Show fixes/code actions",
+            "shortcut": [
+              "f",
+              ";"
+            ],
+            "meta": {
+              "command": "Show fixes/code actions",
+              "group": "Editor actions"
+            }
+          },
+          {
+            "name": "Restart terminal",
+            "shortcut": [
+              "f",
+              "'"
+            ],
+            "meta": {
+              "command": "Restart terminal",
+              "group": "Terminal & tasks"
+            }
+          },
+          {
+            "name": "Open files palette",
+            "shortcut": [
+              "f",
+              "˽"
+            ],
+            "meta": {
+              "command": "Open files palette",
+              "group": "Navigation"
+            }
+          }
+        ]
+      },
+      {
+        "name": "d-mode",
+        "meta": {},
+        "commands": [
+          {
+            "name": "shift + arrow left",
+            "shortcut": [
+              "d",
+              "J"
+            ],
+            "meta": {
+              "command": "shift + arrow left",
+              "group": "Selection"
+            }
+          },
+          {
+            "name": "shift + arrow right",
+            "shortcut": [
+              "d",
+              "L"
+            ],
+            "meta": {
+              "command": "shift + arrow right",
+              "group": "Selection"
+            }
+          },
+          {
+            "name": "shift + arrow up",
+            "shortcut": [
+              "d",
+              "I"
+            ],
+            "meta": {
+              "command": "shift + arrow up",
+              "group": "Selection"
+            }
+          },
+          {
+            "name": "shift + arrow down",
+            "shortcut": [
+              "d",
+              "K"
+            ],
+            "meta": {
+              "command": "shift + arrow down",
+              "group": "Selection"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "finder",
+    "name": "Finder",
+    "meta": {},
+    "areas": [
+      {
+        "name": "f-mode",
+        "meta": {},
+        "commands": [
+          {
+            "name": "new window",
+            "shortcut": [
+              "f",
+              "N"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "close window",
+            "shortcut": [
+              "f",
+              "M"
+            ],
+            "meta": {}
+          }
+        ]
+      },
+      {
+        "name": "j-mode",
+        "meta": {},
+        "commands": [
+          {
+            "name": "go one folder up",
+            "shortcut": [
+              "j",
+              "D"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "go one folder up",
+            "shortcut": [
+              "j",
+              "E"
+            ],
+            "meta": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "telegram",
+    "name": "Telegram",
+    "meta": {},
+    "areas": [
+      {
+        "name": "f-mode",
+        "meta": {},
+        "commands": [
+          {
+            "name": "alt",
+            "shortcut": [
+              "f",
+              "A"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "shift",
+            "shortcut": [
+              "f",
+              "S"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "ctrl",
+            "shortcut": [
+              "f",
+              "D"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "cmd",
+            "shortcut": [
+              "f",
+              "⇪"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "prev chat",
+            "shortcut": [
+              "f",
+              "U"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "next chat",
+            "shortcut": [
+              "f",
+              "O"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "files navigate",
+            "shortcut": [
+              "f",
+              "N"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "close tab",
+            "shortcut": [
+              "f",
+              "M"
+            ],
+            "meta": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "chrome",
+    "name": "Chrome",
+    "meta": {},
+    "areas": [
+      {
+        "name": "f-mode",
+        "meta": {},
+        "commands": [
+          {
+            "name": "new tab",
+            "shortcut": [
+              "f",
+              "N"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "close tab",
+            "shortcut": [
+              "f",
+              "M"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "left tab",
+            "shortcut": [
+              "f",
+              "U"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "right tab",
+            "shortcut": [
+              "f",
+              "O"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "press tab",
+            "shortcut": [
+              "f",
+              "'"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "press shift tab",
+            "shortcut": [
+              "f",
+              "["
+            ],
+            "meta": {}
+          }
+        ]
+      },
+      {
+        "name": "j-mode",
+        "meta": {},
+        "commands": [
+          {
+            "name": "incognito",
+            "shortcut": [
+              "j",
+              "Q"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "lookup dictionary",
+            "shortcut": [
+              "j",
+              "W"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "reload (no cache)",
+            "shortcut": [
+              "j",
+              "R"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "search tabs",
+            "shortcut": [
+              "j",
+              "T"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "address bar focus",
+            "shortcut": [
+              "j",
+              "A"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "search google (new tab)",
+            "shortcut": [
+              "j",
+              "S"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "dev tools",
+            "shortcut": [
+              "j",
+              "D"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "find",
+            "shortcut": [
+              "j",
+              "F"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "search google (current tab)",
+            "shortcut": [
+              "j",
+              "G"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "Reopen closed tab",
+            "shortcut": [
+              "j",
+              "Z"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "fullscreen window",
+            "shortcut": [
+              "j",
+              "X"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "dev tools > commands",
+            "shortcut": [
+              "j",
+              "C"
+            ],
+            "meta": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "slack",
+    "name": "Slack",
+    "meta": {},
+    "areas": [
+      {
+        "name": "f-mode",
+        "meta": {},
+        "commands": [
+          {
+            "name": "list unread conversations",
+            "shortcut": [
+              "f",
+              "U"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "view home (unreads)",
+            "shortcut": [
+              "f",
+              "H"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "new conversation",
+            "shortcut": [
+              "f",
+              "N"
+            ],
+            "meta": {}
+          }
+        ]
+      },
+      {
+        "name": "j-mode",
+        "meta": {},
+        "commands": [
+          {
+            "name": "close right panel",
+            "shortcut": [
+              "j",
+              "W"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "open threads view",
+            "shortcut": [
+              "j",
+              "T"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "search everything",
+            "shortcut": [
+              "j",
+              "S"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "find in current conversation",
+            "shortcut": [
+              "j",
+              "F"
+            ],
+            "meta": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "skype",
+    "name": "Skype",
+    "meta": {
+      "hidden": true
+    },
+    "areas": [
+      {
+        "name": "f-mode",
+        "meta": {},
+        "commands": [
+          {
+            "name": "alt",
+            "shortcut": [
+              "f",
+              "A"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "shift",
+            "shortcut": [
+              "f",
+              "S"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "ctrl",
+            "shortcut": [
+              "f",
+              "D"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "cmd",
+            "shortcut": [
+              "f",
+              "⇪"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "prev chat",
+            "shortcut": [
+              "f",
+              "U"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "next chat",
+            "shortcut": [
+              "f",
+              "O"
+            ],
+            "meta": {}
+          }
+        ]
+      },
+      {
+        "name": "j-mode",
+        "meta": {},
+        "commands": [
+          {
+            "name": "find",
+            "shortcut": [
+              "j",
+              "F"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "search",
+            "shortcut": [
+              "j",
+              "S"
+            ],
+            "meta": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "elmedia",
+    "name": "Elmedia",
+    "meta": {},
+    "areas": [
+      {
+        "name": "f-mode",
+        "meta": {},
+        "commands": [
+          {
+            "name": "rewind",
+            "shortcut": [
+              "f",
+              "J"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "fast-forward",
+            "shortcut": [
+              "f",
+              "L"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "arrow up",
+            "shortcut": [
+              "f",
+              "I"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "arrow down",
+            "shortcut": [
+              "f",
+              "K"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "prev track",
+            "shortcut": [
+              "f",
+              "U"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "next track",
+            "shortcut": [
+              "f",
+              "O"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "speed up",
+            "shortcut": [
+              "f",
+              "P"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "speed down",
+            "shortcut": [
+              "f",
+              ";"
+            ],
+            "meta": {}
+          },
+          {
+            "name": "playlist",
+            "shortcut": [
+              "f",
+              "˽"
+            ],
+            "meta": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cmd-ctrl-alt-switch",
+    "name": "cmd ctrl alt switch",
+    "meta": {
+      "hidden": true
+    },
+    "areas": []
+  },
+  {
+    "id": "mouse",
+    "name": "Mouse",
+    "meta": {},
+    "areas": []
+  }
+]

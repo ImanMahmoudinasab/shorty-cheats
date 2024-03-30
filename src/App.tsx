@@ -7,10 +7,14 @@ import "./theme/theme.css";
 function App() {
   return (
     <>
-      <div className="pt-3 max-w-[1250px] mx-auto">
-        <Nav spaces={SPACES} defaultValue="apps">
+      <div className="pt-3 ">
+        <Nav spaces={SPACES} defaultValue={SPACES[0].id}>
           {SPACES.map((space) => (
-            <NavContent key={space.name} value={space.name}>
+            <NavContent
+              key={space.id}
+              value={space.id}
+              className="mb-10 max-w-[1250px] mx-auto"
+            >
               <Space areas={space.areas} />
             </NavContent>
           ))}
