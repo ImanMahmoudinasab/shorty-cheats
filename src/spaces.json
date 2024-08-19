@@ -141,13 +141,14 @@
             }
           },
           {
-            "name": "Open Alfred / Spotlight 1",
+            "name": "Show ui shortcuts",
             "shortcut": [
               ";",
               "˽"
             ],
             "meta": {
-              "command": "Open Alfred / Spotlight 1"
+              "command": "Show ui shortcuts",
+              "group": "General actions"
             }
           }
         ]
@@ -265,13 +266,13 @@
             }
           },
           {
-            "name": "Open Alfred / Spotlight 2",
+            "name": "Open Alfred / Spotlight",
             "shortcut": [
               "a",
               "˽"
             ],
             "meta": {
-              "command": "Open Alfred / Spotlight 2"
+              "command": "Open Alfred / Spotlight"
             }
           }
         ]
@@ -288,35 +289,68 @@
         "meta": {},
         "commands": [
           {
-            "name": "capture screenshot to clipboard",
+            "name": "area screenshot to clipboard",
             "shortcut": [
               "˽",
               "1"
             ],
             "meta": {
-              "command": "capture screenshot to clipboard",
+              "command": "area screenshot to clipboard",
               "group": "Screenshot"
             }
           },
           {
-            "name": "capture screenshot & annotate",
+            "name": "area screenshot & annotate",
             "shortcut": [
               "˽",
               "2"
             ],
             "meta": {
-              "command": "capture screenshot & annotate",
+              "command": "area screenshot & annotate",
               "group": "Screenshot"
             }
           },
           {
-            "name": "screenshot",
+            "name": "repeat area screenshot",
             "shortcut": [
               "˽",
               "3"
             ],
             "meta": {
-              "command": "screenshot",
+              "command": "repeat area screenshot",
+              "group": "Screenshot"
+            }
+          },
+          {
+            "name": "window screenshot",
+            "shortcut": [
+              "˽",
+              "4"
+            ],
+            "meta": {
+              "command": "window screenshot",
+              "group": "Screenshot"
+            }
+          },
+          {
+            "name": "scrolling screenshot",
+            "shortcut": [
+              "˽",
+              "5"
+            ],
+            "meta": {
+              "command": "scrolling screenshot",
+              "group": "Screenshot"
+            }
+          },
+          {
+            "name": "ocr screen",
+            "shortcut": [
+              "˽",
+              "6"
+            ],
+            "meta": {
+              "command": "ocr screen",
               "group": "Screenshot"
             }
           },
@@ -324,7 +358,7 @@
             "name": "record screen",
             "shortcut": [
               "˽",
-              "4"
+              "7"
             ],
             "meta": {
               "command": "record screen",
@@ -1037,17 +1071,6 @@
             "meta": {
               "command": "Delete forward a word",
               "group": "Editor navigation"
-            }
-          },
-          {
-            "name": "Show ui shortcuts",
-            "shortcut": [
-              "s",
-              "˽"
-            ],
-            "meta": {
-              "command": "Show ui shortcuts",
-              "group": "General actions"
             }
           }
         ]
@@ -1789,14 +1812,6 @@
         "meta": {},
         "commands": [
           {
-            "name": "new tab",
-            "shortcut": [
-              "f",
-              "N"
-            ],
-            "meta": {}
-          },
-          {
             "name": "close tab",
             "shortcut": [
               "f",
@@ -1835,6 +1850,14 @@
               "["
             ],
             "meta": {}
+          },
+          {
+            "name": "search tabs",
+            "shortcut": [
+              "f",
+              "˽"
+            ],
+            "meta": {}
           }
         ]
       },
@@ -1867,7 +1890,7 @@
             "meta": {}
           },
           {
-            "name": "search tabs",
+            "name": "new tab",
             "shortcut": [
               "j",
               "T"
